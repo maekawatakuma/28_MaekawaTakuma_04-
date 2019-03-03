@@ -1,0 +1,8 @@
+div p:nth-child(2n+1) {
+    background: black;
+    color: white;
+} 
+div p:nth-child(2n) {
+    background:white;
+    color: black; 
+} 
